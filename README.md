@@ -1,5 +1,4 @@
 # Cash-Flow-Minimizer-System
-# Cash Flow Minimizer System
 
 ## Project Overview
 The **Cash Flow Minimizer System** aims to optimize interbank transactions by minimizing the number of financial exchanges required among multiple banks. This system handles multiple banks, each with different payment modes, and a world bank that serves as an intermediary for banks with no common payment modes. The goal is to reduce the number of intermediary transactions and calculate a minimized cash flow that satisfies all debts and credits among the participating banks.
